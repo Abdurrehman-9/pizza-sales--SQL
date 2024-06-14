@@ -1,5 +1,6 @@
 # pizza-sales--SQL
 Usage of basics to advance queries to answer business problems.
+<br>
 Basic:
 1. Retrieve the total number of orders placed.
 2. Calculate the total revenue generated from pizza sales.
